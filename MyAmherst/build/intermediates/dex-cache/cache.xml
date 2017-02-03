@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_74c265a02481b6f26cd25780077a0b2093e0f475\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_f2f80bb0523ff509b1c38925b29d258cf05a137e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_0cc9af52158c8e9991db54e718c688a49770f21c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thyne_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_2d09e270e6bec5001c7f6cbe3c4defc8b679c64e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_544fe64c23ae1353d8ab61fc9f41b47b09932637\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_997aadab0f71503dca4d2fd6f1a30854e94101d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_170436ef458ca65f4d46abf6159d137bf0bf199e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_bac43a2c6dab5550795ee8928f4d459b74ec5598\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_1934387dedac648cac2a7f9a8401c81d76f21648\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="834b89e776ae630d4203abd667c2903f62f43e39">
+        <dex dex="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_760931598c5e2d0c67fac92f08accd5845f48a91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_d4acafa1fffa0a8524be79967636a193d280f6cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6f79e181ff20fbf7c118236a40ec21f84f165a4a">
+        <dex dex="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ca91afd0f05fb188413db8e99cb5bc03b415dd82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\thyne_000\Documents\GitHub\androidcs342\MyAmherst\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_b84dae33279235db4cac4e2ed8d89cf1e6e5bce4\classes.dex" />
+    </item>
+
+</items>
